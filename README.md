@@ -1,14 +1,6 @@
 # ParkHere Web App Readme
 
 ParkHere is a web application designed to provide parking services in busy areas using Google Maps API. The app offers two user roles: Service Provider and User. Service Providers can offer parking spaces, while Users can find and book available parking spots. This readme provides an overview of the app's functionalities, challenges, and key divisions.
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Challenges](#challenges)
-- [Divisions](#divisions)
-- [Contributing](#contributing)
-- [License](#license)
   
 
 ## Overview
